@@ -53,27 +53,12 @@ No terminal, você verá um menu com as seguintes opções:
 **Buscar e Exibir Funcionário**:
 
 - Insira o ID do funcionário para exibir suas informações.
-
-### Estrutura do Projeto
-
-A estrutura do projeto está organizada da seguinte maneira:
-
-SistemaFuncionarios/
-├── src/
-│ └── com/
-│ └── sistemafuncionarios/
-│ ├── Funcionario.java
-│ └── Main.java
-│ ├── SistemaFuncionarios.java
-│ ├──module-info.java
-│ ├──.classpath
-├── .gitignore
-└── README.md
+  
 
 - `Funcionario.java`: Define a classe `Funcionario` com atributos e métodos de acesso.
 - `SistemaFuncionarios.java`: Gerencia a lista de funcionários e operações de atualização.
 - `Main.java`: Contém a lógica principal para interação com o usuário via terminal.
 
-### Autores
+### Autora
 
 - [Amanda Lopes Silva](https://github.com/Amandals33)
